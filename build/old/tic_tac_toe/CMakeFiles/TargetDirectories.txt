@@ -1,0 +1,4 @@
+/home/salman/Desktop/gui_codes/build/tic_tac_toe/CMakeFiles/tic_tac_toe.dir
+/home/salman/Desktop/gui_codes/build/tic_tac_toe/CMakeFiles/edit_cache.dir
+/home/salman/Desktop/gui_codes/build/tic_tac_toe/CMakeFiles/rebuild_cache.dir
+/home/salman/Desktop/gui_codes/build/tic_tac_toe/CMakeFiles/tic_tac_toe_autogen.dir

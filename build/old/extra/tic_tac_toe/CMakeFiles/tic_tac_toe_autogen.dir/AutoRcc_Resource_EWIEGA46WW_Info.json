@@ -1,0 +1,26 @@
+{
+	"BUILD_DIR" : "/home/salman/Desktop/gui_codes/build/tic_tac_toe/tic_tac_toe_autogen",
+	"CMAKE_BINARY_DIR" : "/home/salman/Desktop/gui_codes/build/tic_tac_toe",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/salman/Desktop/gui_codes/build/tic_tac_toe",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/salman/Desktop/gui_codes/code/tic_tac_toe",
+	"CMAKE_SOURCE_DIR" : "/home/salman/Desktop/gui_codes/code/tic_tac_toe",
+	"INCLUDE_DIR" : "/home/salman/Desktop/gui_codes/build/tic_tac_toe/tic_tac_toe_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/salman/Desktop/gui_codes/code/tic_tac_toe/img/close.png",
+		"/home/salman/Desktop/gui_codes/code/tic_tac_toe/img/intro_bg.png",
+		"/home/salman/Desktop/gui_codes/code/tic_tac_toe/img/back.png",
+		"/home/salman/Desktop/gui_codes/code/tic_tac_toe/img/bg",
+		"/home/salman/Desktop/gui_codes/code/tic_tac_toe/img/game_border.png"
+	],
+	"LOCK_FILE" : "/home/salman/Desktop/gui_codes/build/tic_tac_toe/CMakeFiles/tic_tac_toe_autogen.dir/AutoRcc_Resource_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "Resource" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_Resource.cpp",
+	"RCC_EXECUTABLE" : "/home/salman/Qt5.12.12/5.12.12/gcc_64/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/salman/Desktop/gui_codes/build/tic_tac_toe/CMakeFiles/tic_tac_toe_autogen.dir/AutoRcc_Resource_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/salman/Desktop/gui_codes/code/tic_tac_toe/Resource.qrc",
+	"VERBOSITY" : 0
+}

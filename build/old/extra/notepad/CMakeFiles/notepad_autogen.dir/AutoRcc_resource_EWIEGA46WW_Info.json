@@ -1,0 +1,25 @@
+{
+	"BUILD_DIR" : "/home/salman/Desktop/gui_codes/build/notepad/notepad_autogen",
+	"CMAKE_BINARY_DIR" : "/home/salman/Desktop/gui_codes/build/notepad",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/salman/Desktop/gui_codes/build/notepad",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/salman/Desktop/gui_codes/code/notepad",
+	"CMAKE_SOURCE_DIR" : "/home/salman/Desktop/gui_codes/code/notepad",
+	"INCLUDE_DIR" : "/home/salman/Desktop/gui_codes/build/notepad/notepad_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/salman/Desktop/gui_codes/code/notepad/img/bgjpeg",
+		"/home/salman/Desktop/gui_codes/code/notepad/img/open.png",
+		"/home/salman/Desktop/gui_codes/code/notepad/img/add.png",
+		"/home/salman/Desktop/gui_codes/code/notepad/img/back.png"
+	],
+	"LOCK_FILE" : "/home/salman/Desktop/gui_codes/build/notepad/CMakeFiles/notepad_autogen.dir/AutoRcc_resource_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resource" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resource.cpp",
+	"RCC_EXECUTABLE" : "/home/salman/Qt5.12.12/5.12.12/gcc_64/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/salman/Desktop/gui_codes/build/notepad/CMakeFiles/notepad_autogen.dir/AutoRcc_resource_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/salman/Desktop/gui_codes/code/notepad/resource.qrc",
+	"VERBOSITY" : 0
+}

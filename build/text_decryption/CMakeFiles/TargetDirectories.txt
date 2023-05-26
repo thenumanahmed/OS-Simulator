@@ -1,0 +1,4 @@
+/home/numanahmed/Desktop/os_semester4-main/build/text_decryption/CMakeFiles/text_decryption.dir
+/home/numanahmed/Desktop/os_semester4-main/build/text_decryption/CMakeFiles/edit_cache.dir
+/home/numanahmed/Desktop/os_semester4-main/build/text_decryption/CMakeFiles/rebuild_cache.dir
+/home/numanahmed/Desktop/os_semester4-main/build/text_decryption/CMakeFiles/text_decryption_autogen.dir

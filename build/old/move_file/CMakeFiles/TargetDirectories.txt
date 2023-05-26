@@ -1,0 +1,4 @@
+/home/salman/Desktop/gui_codes/build/move_file/CMakeFiles/MoveFIle.dir
+/home/salman/Desktop/gui_codes/build/move_file/CMakeFiles/edit_cache.dir
+/home/salman/Desktop/gui_codes/build/move_file/CMakeFiles/rebuild_cache.dir
+/home/salman/Desktop/gui_codes/build/move_file/CMakeFiles/MoveFIle_autogen.dir

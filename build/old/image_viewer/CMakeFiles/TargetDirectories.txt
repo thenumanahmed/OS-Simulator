@@ -1,0 +1,4 @@
+/home/salman/Desktop/gui_codes/build/image_viewer/CMakeFiles/image_viewer.dir
+/home/salman/Desktop/gui_codes/build/image_viewer/CMakeFiles/edit_cache.dir
+/home/salman/Desktop/gui_codes/build/image_viewer/CMakeFiles/rebuild_cache.dir
+/home/salman/Desktop/gui_codes/build/image_viewer/CMakeFiles/image_viewer_autogen.dir

@@ -1,0 +1,4 @@
+/home/salman/Desktop/gui_codes/build/calendar/CMakeFiles/calendar.dir
+/home/salman/Desktop/gui_codes/build/calendar/CMakeFiles/edit_cache.dir
+/home/salman/Desktop/gui_codes/build/calendar/CMakeFiles/rebuild_cache.dir
+/home/salman/Desktop/gui_codes/build/calendar/CMakeFiles/calendar_autogen.dir

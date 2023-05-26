@@ -1,0 +1,4 @@
+/home/numanahmed/Desktop/os_semester4-main/build/Delete-file-system/CMakeFiles/Delete-file-system.dir
+/home/numanahmed/Desktop/os_semester4-main/build/Delete-file-system/CMakeFiles/edit_cache.dir
+/home/numanahmed/Desktop/os_semester4-main/build/Delete-file-system/CMakeFiles/rebuild_cache.dir
+/home/numanahmed/Desktop/os_semester4-main/build/Delete-file-system/CMakeFiles/Delete-file-system_autogen.dir

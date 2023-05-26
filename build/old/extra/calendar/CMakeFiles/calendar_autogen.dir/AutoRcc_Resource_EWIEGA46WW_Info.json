@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "/home/salman/Desktop/gui_codes/build/calendar/calendar_autogen",
+	"CMAKE_BINARY_DIR" : "/home/salman/Desktop/gui_codes/build/calendar",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/salman/Desktop/gui_codes/build/calendar",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/salman/Desktop/gui_codes/code/calendar",
+	"CMAKE_SOURCE_DIR" : "/home/salman/Desktop/gui_codes/code/calendar",
+	"INCLUDE_DIR" : "/home/salman/Desktop/gui_codes/build/calendar/calendar_autogen/include",
+	"INPUTS" : [ "/home/salman/Desktop/gui_codes/code/calendar/img/Resource.png" ],
+	"LOCK_FILE" : "/home/salman/Desktop/gui_codes/build/calendar/CMakeFiles/calendar_autogen.dir/AutoRcc_Resource_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "Resource" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_Resource.cpp",
+	"RCC_EXECUTABLE" : "/home/salman/Qt5.12.12/5.12.12/gcc_64/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/salman/Desktop/gui_codes/build/calendar/CMakeFiles/calendar_autogen.dir/AutoRcc_Resource_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/salman/Desktop/gui_codes/code/calendar/Resource.qrc",
+	"VERBOSITY" : 0
+}

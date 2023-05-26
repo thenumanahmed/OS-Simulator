@@ -1,0 +1,4 @@
+/home/numanahmed/Desktop/os_semester4-main/build/MoveFIle/CMakeFiles/MoveFIle.dir
+/home/numanahmed/Desktop/os_semester4-main/build/MoveFIle/CMakeFiles/edit_cache.dir
+/home/numanahmed/Desktop/os_semester4-main/build/MoveFIle/CMakeFiles/rebuild_cache.dir
+/home/numanahmed/Desktop/os_semester4-main/build/MoveFIle/CMakeFiles/MoveFIle_autogen.dir

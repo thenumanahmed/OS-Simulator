@@ -1,0 +1,31 @@
+{
+	"BUILD_DIR" : "/home/salman/Desktop/gui_codes/build/text_editor/text_editor_autogen",
+	"CMAKE_BINARY_DIR" : "/home/salman/Desktop/gui_codes/build/text_editor",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/salman/Desktop/gui_codes/build/text_editor",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/salman/Desktop/gui_codes/code/text_editor",
+	"CMAKE_SOURCE_DIR" : "/home/salman/Desktop/gui_codes/code/text_editor",
+	"INCLUDE_DIR" : "/home/salman/Desktop/gui_codes/build/text_editor/text_editor_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/salman/Desktop/gui_codes/code/text_editor/img/save.png",
+		"/home/salman/Desktop/gui_codes/code/text_editor/img/open.png",
+		"/home/salman/Desktop/gui_codes/code/text_editor/img/cut.png",
+		"/home/salman/Desktop/gui_codes/code/text_editor/img/undo.png",
+		"/home/salman/Desktop/gui_codes/code/text_editor/img/add.png",
+		"/home/salman/Desktop/gui_codes/code/text_editor/img/save_as.png",
+		"/home/salman/Desktop/gui_codes/code/text_editor/img/redo.png",
+		"/home/salman/Desktop/gui_codes/code/text_editor/img/copy.png",
+		"/home/salman/Desktop/gui_codes/code/text_editor/img/paste.png",
+		"/home/salman/Desktop/gui_codes/code/text_editor/img/info.png"
+	],
+	"LOCK_FILE" : "/home/salman/Desktop/gui_codes/build/text_editor/CMakeFiles/text_editor_autogen.dir/AutoRcc_Resource_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "Resource" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_Resource.cpp",
+	"RCC_EXECUTABLE" : "/home/salman/Qt5.12.12/5.12.12/gcc_64/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/salman/Desktop/gui_codes/build/text_editor/CMakeFiles/text_editor_autogen.dir/AutoRcc_Resource_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/salman/Desktop/gui_codes/code/text_editor/Resource.qrc",
+	"VERBOSITY" : 0
+}

@@ -1,0 +1,4 @@
+/home/numanahmed/Desktop/os_semester4-main/build/tic_tac_toe/CMakeFiles/tic_tac_toe.dir
+/home/numanahmed/Desktop/os_semester4-main/build/tic_tac_toe/CMakeFiles/edit_cache.dir
+/home/numanahmed/Desktop/os_semester4-main/build/tic_tac_toe/CMakeFiles/rebuild_cache.dir
+/home/numanahmed/Desktop/os_semester4-main/build/tic_tac_toe/CMakeFiles/tic_tac_toe_autogen.dir

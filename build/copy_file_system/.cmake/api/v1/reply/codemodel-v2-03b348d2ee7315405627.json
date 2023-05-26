@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "copy_file_system",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "copy_file_system::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-copy_file_system-Debug-dda5b5b1d2b5bb014f57.json",
+					"name" : "copy_file_system",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "copy_file_system_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-copy_file_system_autogen-Debug-f9511272df88ae7947c4.json",
+					"name" : "copy_file_system_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/numanahmed/Desktop/os_semester4-main/build/copy_file_system",
+		"source" : "/home/numanahmed/Desktop/os_semester4-main/code/copy_file_system"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

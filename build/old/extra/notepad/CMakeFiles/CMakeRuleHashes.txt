@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+480e10d960c28f096b9c55f805b3c04b CMakeFiles/notepad_autogen
+af689a05158a31469bbe7d55d96570c7 notepad_autogen/EWIEGA46WW/qrc_resource.cpp

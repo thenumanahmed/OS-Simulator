@@ -1,0 +1,4 @@
+/home/numanahmed/Desktop/os_semester4-main/build/main/CMakeFiles/main.dir
+/home/numanahmed/Desktop/os_semester4-main/build/main/CMakeFiles/edit_cache.dir
+/home/numanahmed/Desktop/os_semester4-main/build/main/CMakeFiles/rebuild_cache.dir
+/home/numanahmed/Desktop/os_semester4-main/build/main/CMakeFiles/main_autogen.dir

@@ -1,0 +1,4 @@
+/home/salman/Desktop/gui_codes/build/file_info_system/CMakeFiles/cmake.dir
+/home/salman/Desktop/gui_codes/build/file_info_system/CMakeFiles/edit_cache.dir
+/home/salman/Desktop/gui_codes/build/file_info_system/CMakeFiles/rebuild_cache.dir
+/home/salman/Desktop/gui_codes/build/file_info_system/CMakeFiles/cmake_autogen.dir

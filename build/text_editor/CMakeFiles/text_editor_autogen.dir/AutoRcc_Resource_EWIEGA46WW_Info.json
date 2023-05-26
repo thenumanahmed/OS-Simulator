@@ -1,0 +1,31 @@
+{
+	"BUILD_DIR" : "/home/numanahmed/Desktop/os_semester4-main/build/text_editor/text_editor_autogen",
+	"CMAKE_BINARY_DIR" : "/home/numanahmed/Desktop/os_semester4-main/build/text_editor",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/numanahmed/Desktop/os_semester4-main/build/text_editor",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/numanahmed/Desktop/os_semester4-main/code/text_editor",
+	"CMAKE_SOURCE_DIR" : "/home/numanahmed/Desktop/os_semester4-main/code/text_editor",
+	"INCLUDE_DIR" : "/home/numanahmed/Desktop/os_semester4-main/build/text_editor/text_editor_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/numanahmed/Desktop/os_semester4-main/code/text_editor/img/save.png",
+		"/home/numanahmed/Desktop/os_semester4-main/code/text_editor/img/open.png",
+		"/home/numanahmed/Desktop/os_semester4-main/code/text_editor/img/cut.png",
+		"/home/numanahmed/Desktop/os_semester4-main/code/text_editor/img/undo.png",
+		"/home/numanahmed/Desktop/os_semester4-main/code/text_editor/img/add.png",
+		"/home/numanahmed/Desktop/os_semester4-main/code/text_editor/img/save_as.png",
+		"/home/numanahmed/Desktop/os_semester4-main/code/text_editor/img/redo.png",
+		"/home/numanahmed/Desktop/os_semester4-main/code/text_editor/img/copy.png",
+		"/home/numanahmed/Desktop/os_semester4-main/code/text_editor/img/paste.png",
+		"/home/numanahmed/Desktop/os_semester4-main/code/text_editor/img/info.png"
+	],
+	"LOCK_FILE" : "/home/numanahmed/Desktop/os_semester4-main/build/text_editor/CMakeFiles/text_editor_autogen.dir/AutoRcc_Resource_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "Resource" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_Resource.cpp",
+	"RCC_EXECUTABLE" : "/home/numanahmed/Qt5.12.12/5.12.12/gcc_64/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/numanahmed/Desktop/os_semester4-main/build/text_editor/CMakeFiles/text_editor_autogen.dir/AutoRcc_Resource_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/numanahmed/Desktop/os_semester4-main/code/text_editor/Resource.qrc",
+	"VERBOSITY" : 0
+}

@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/calculator.png</file>
+        <file>img/notepad.png</file>
+        <file>img/tictactoe.png</file>
+        <file>img/time.png</file>
+        <file>img/shutdown.png</file>
+        <file>img/loading_logo.png</file>
+        <file>img/startup_bg.jpeg</file>
+        <file>img/text_encryption.png</file>
+        <file>img/text_decryption.png</file>
+        <file>img/task_manager.png</file>
+        <file>img/move_file.png</file>
+        <file>img/file_info.png</file>
+        <file>img/file_encryption.png</file>
+        <file>img/file_decryption.png</file>
+        <file>img/delete_file.png</file>
+        <file>img/create_file.png</file>
+        <file>img/copy_file.png</file>
+        <file>img/calender.png</file>
+        <file>img/image_viewer.png</file>
+        <file>img/text_editor.png</file>
+    </qresource>
+</RCC>

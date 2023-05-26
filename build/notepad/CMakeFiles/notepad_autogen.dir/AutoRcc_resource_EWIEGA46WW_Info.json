@@ -1,0 +1,25 @@
+{
+	"BUILD_DIR" : "/home/numanahmed/Desktop/os_semester4-main/build/notepad/notepad_autogen",
+	"CMAKE_BINARY_DIR" : "/home/numanahmed/Desktop/os_semester4-main/build/notepad",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/numanahmed/Desktop/os_semester4-main/build/notepad",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/numanahmed/Desktop/os_semester4-main/code/notepad",
+	"CMAKE_SOURCE_DIR" : "/home/numanahmed/Desktop/os_semester4-main/code/notepad",
+	"INCLUDE_DIR" : "/home/numanahmed/Desktop/os_semester4-main/build/notepad/notepad_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/numanahmed/Desktop/os_semester4-main/code/notepad/img/bgjpeg",
+		"/home/numanahmed/Desktop/os_semester4-main/code/notepad/img/open.png",
+		"/home/numanahmed/Desktop/os_semester4-main/code/notepad/img/add.png",
+		"/home/numanahmed/Desktop/os_semester4-main/code/notepad/img/back.png"
+	],
+	"LOCK_FILE" : "/home/numanahmed/Desktop/os_semester4-main/build/notepad/CMakeFiles/notepad_autogen.dir/AutoRcc_resource_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resource" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resource.cpp",
+	"RCC_EXECUTABLE" : "/home/numanahmed/Qt5.12.12/5.12.12/gcc_64/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/numanahmed/Desktop/os_semester4-main/build/notepad/CMakeFiles/notepad_autogen.dir/AutoRcc_resource_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/numanahmed/Desktop/os_semester4-main/code/notepad/resource.qrc",
+	"VERBOSITY" : 0
+}

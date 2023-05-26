@@ -1,0 +1,4 @@
+/home/salman/Desktop/gui_codes/build/notepad/CMakeFiles/notepad.dir
+/home/salman/Desktop/gui_codes/build/notepad/CMakeFiles/edit_cache.dir
+/home/salman/Desktop/gui_codes/build/notepad/CMakeFiles/rebuild_cache.dir
+/home/salman/Desktop/gui_codes/build/notepad/CMakeFiles/notepad_autogen.dir

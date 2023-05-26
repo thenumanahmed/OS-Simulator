@@ -1,0 +1,4 @@
+/home/salman/Desktop/gui_codes/build/text_editor/CMakeFiles/text_editor.dir
+/home/salman/Desktop/gui_codes/build/text_editor/CMakeFiles/edit_cache.dir
+/home/salman/Desktop/gui_codes/build/text_editor/CMakeFiles/rebuild_cache.dir
+/home/salman/Desktop/gui_codes/build/text_editor/CMakeFiles/text_editor_autogen.dir
