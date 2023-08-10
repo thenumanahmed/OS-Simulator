@@ -14,3 +14,11 @@
 # Home Screen
  	<img src="https://github.com/thenumanahmed/OS-Simulator/blob/master/Documentation/OS_Simulator_home_page.jpg" width="200">
 	
+<table width="100">
+	<tr>
+    		<td align='center'>
+        		<img src="https://th.bing.com/th/id/R.3919e5b2f737f142a45921320e666382?rik=mkXBaXp%2bAMCTcw&pid=ImgRaw&r=0" width="80">
+    		</td>
+ 
+	</tr>
+</table>
