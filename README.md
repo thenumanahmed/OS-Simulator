@@ -12,12 +12,11 @@
 	1024	-> RAM capacity
 	40960 	-> HARD DISK CAPACITY
 # Home Screen
- 	<img src="https://github.com/thenumanahmed/OS-Simulator/blob/master/Documentation/OS_Simulator_home_page.jpg" width="200">
-	
+ 	
 <table width="100">
 	<tr>
     		<td align='center'>
-        		<img src="https://github.com/thenumanahmed/OS-Simulator/blob/master/Documentation/OS_Simulator_home_page.jpg" width="200">
+        		<img src="https://github.com/thenumanahmed/OS-Simulator/blob/master/Documentation/OS_Simulator_home_page.jpg" width="300" height="500">
     		</td>
  
 	</tr>
