@@ -12,6 +12,7 @@
 	1024	-> RAM capacity
 	40960 	-> HARD DISK CAPACITY
 # Home Screen
+	jkd
  <table width="200">
 	 <tr>
     		<td align='center'>
