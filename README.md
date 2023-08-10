@@ -13,11 +13,9 @@
 	40960 	-> HARD DISK CAPACITY
 # Home Screen
  <table width="200">
-	 ok
-	 <tr>
+	
     		<td align='center'>
         		<img src="https://github.com/thenumanahmed/OS-Simulator/blob/master/Documentation/OS_Simulator_home_page.jpg" width="350" height="350">
     		</td>
  
-	</tr>
 </table>
